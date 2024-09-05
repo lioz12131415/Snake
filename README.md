@@ -5,7 +5,6 @@
 <p align="center">
     <a href="https://swift.org/about/#swiftorg-and-open-source"><img src="README/Badges/swift_version_badge.svg"></a>
     <a href="https://developer.apple.com/xcode/"><img src="README/Badges/xcode_version_badge.svg"></a>
-    <a href="https://developer.apple.com/metal/"><img src="README/Badges/ios_metal_version_badge.svg"></a>
     <a href="http://doge.mit-license.org"><img src="README/Badges/mit_license_badge.svg"></a>
 </p>
 
